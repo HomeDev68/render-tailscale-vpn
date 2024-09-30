@@ -1,5 +1,5 @@
 # Render Tailscale VPN
-Host your own Personal VPN on Render platform
+Host your own Personal VPN on the Render platform
 
 ## Environment Variables Needed
 ``` .env
